@@ -1,0 +1,10 @@
+<resources>
+  <string name="app_name">InstApp</string>
+  <string name="action_settings">Settings</string>
+  <string name="client_id">Your_id</string>
+  <string name="redirect_url">https://github.com/</string>
+  <string name="base_url">https://api.instagram.com/</string>
+  <string name="get_user_info_url">
+    https://api.instagram.com/v1/users/self/?access_token=
+  </string>
+</resources>
